@@ -1,9 +1,9 @@
 # Site wide configuration
 
-title: A Bunch of Words
+title: Never Mind
 locale: en_US
 description: by Rizki Andisa Pranata
-logo: site-logo.png
+#logo: site-logo.png
 search: true
 url: https://rapranata.github.io
 
