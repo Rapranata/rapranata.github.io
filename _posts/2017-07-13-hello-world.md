@@ -12,7 +12,7 @@ defaults:
       share: true
       related: true
 ---
-## Hello Words
+## Sebuah Awal Mula
 
 Setelah sekian lama dalam angan untuk memiliki sebuah blog, akhirnya hari ini terwujud juga. Belajar jekyll dan github blog site. Sebenarnya engga gitu susah tapi waktu untuk belajarnya yang engga ada. Karena blogging pake wordpress / blogspot itu ga seru. #tengik
 
